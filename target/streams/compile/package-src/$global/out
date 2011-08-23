@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/todo.txt-scala_2.8.1-0.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	TodoList.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/src/main/scala/TodoList.scala[0m
+[0m[[0mdebug[0m] [0m	TodoApp.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/src/main/scala/TodoApp.scala[0m
+[0m[[0mdebug[0m] [0m	Task.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/src/main/scala/Task.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

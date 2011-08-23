@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: /usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/resources.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/jsse.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/jce.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/charsets.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-sun-1.6.0.26/jre/classes:/home/sam/Dropbox/code/Scala/todo-txt/project/boot/scala-2.8.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes:/home/sam/Dropbox/code/Scala/todo-txt/lib/specs_2.8.1-1.6.7.jar:/home/sam/Dropbox/code/Scala/todo-txt/project/boot/scala-2.8.1/lib/scala-compiler.jar:/home/sam/Dropbox/code/Scala/todo-txt/project/boot/scala-2.8.1/lib/jline.jar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

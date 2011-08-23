@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mRunning Test com.lbak.todo.test.TaskSpec : subclass(false, org.specs.Specification) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test com.lbak.todo.test.TodoListSpec : subclass(false, org.specs.Specification) with arguments [0m
+[0m[[0minfo[0m] [0mPassed: : Total 12, Failed 0, Errors 0, Passed 12, Skipped 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.lbak.todo.test.TodoListSpec[0m
+[0m[[0mdebug[0m] [0m	com.lbak.todo.test.TaskSpec[0m

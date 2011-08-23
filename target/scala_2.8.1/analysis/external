@@ -1,0 +1,4 @@
+#External Dependencies
+#Tue Aug 23 01:20:53 BST 2011
+/home/sam/Dropbox/code/Scala/todo-txt/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/TodoApp.scala\:src/main/scala/TodoList.scala\:src/main/scala/Task.scala
+/usr/lib/jvm/java-6-sun-1.6.0.26/jre/lib/rt.jar=src/main/scala/TodoApp.scala\:src/main/scala/TodoList.scala\:src/main/scala/Task.scala

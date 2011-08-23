@@ -1,0 +1,13 @@
+run
+console
+~compile
+test
+console
+~test
+build
+package
+publish
+console
+test
+~test
+test

@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m:: delivering :: com.lbak#todo.txt-scala_2.8.1;0.1 :: 0.1 :: release :: Tue Aug 23 02:24:58 BST 2011[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Tue Aug 23 02:24:58 BST 2011 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/ivy-0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (44ms)[0m

@@ -1,0 +1,5 @@
+#Source Hashes
+#Tue Aug 23 01:20:53 BST 2011
+src/main/scala/TodoApp.scala=1b7ef9ebb54d65fb5427f6c2d31fff65226ca1a7
+src/main/scala/Task.scala=74376e9f7246737ba4efdfb5d6a90711a901a358
+src/main/scala/TodoList.scala=81877657127e28429caf80c4fa4bc261ef85e2f4

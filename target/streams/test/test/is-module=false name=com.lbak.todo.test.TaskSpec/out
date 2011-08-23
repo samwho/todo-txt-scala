@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32m+ Task should[0m[0m
+[0m[[0minfo[0m] [0m[32m  + recognise priority[0m[0m
+[0m[[0minfo[0m] [0m[32m  + recognise contexts[0m[0m
+[0m[[0minfo[0m] [0m[32m  + recognise projects[0m[0m
+[0m[[0minfo[0m] [0m[32m  + extract text correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m+ Dud task should[0m[0m
+[0m[[0minfo[0m] [0m[32m  + not match priority[0m[0m
+[0m[[0minfo[0m] [0m[32m  + not match context[0m[0m
+[0m[[0minfo[0m] [0m[32m  + not match projects[0m[0m
+[0m[[0minfo[0m] [0m[32m  + still match text[0m[0m

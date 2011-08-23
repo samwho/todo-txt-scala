@@ -1,0 +1,5 @@
+#Generated Classes
+#Tue Aug 23 01:20:53 BST 2011
+src/main/scala/TodoApp.scala=target/scala_2.8.1/classes/com/lbak/todo/TodoApp$.class\:target/scala_2.8.1/classes/com/lbak/todo/TodoApp.class
+src/main/scala/Task.scala=target/scala_2.8.1/classes/com/lbak/todo/Task$$anonfun$getProjects$1.class\:target/scala_2.8.1/classes/com/lbak/todo/Task$$anonfun$getContexts$1.class\:target/scala_2.8.1/classes/com/lbak/todo/Task.class
+src/main/scala/TodoList.scala=target/scala_2.8.1/classes/com/lbak/todo/TodoList$$anonfun$1.class\:target/scala_2.8.1/classes/com/lbak/todo/TodoList.class

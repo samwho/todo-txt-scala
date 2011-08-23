@@ -1,0 +1,5 @@
+#External Dependencies
+#Tue Aug 23 01:21:02 BST 2011
+/home/sam/Dropbox/code/Scala/todo-txt/target/scala_2.8.1/classes/com/lbak/todo/Task.class=src/test/scala/TaskSpec.scala
+/home/sam/Dropbox/code/Scala/todo-txt/lib/specs_2.8.1-1.6.7.jar=src/test/scala/TaskSpec.scala
+/home/sam/Dropbox/code/Scala/todo-txt/project/boot/scala-2.8.1/lib/scala-library.jar=src/test/scala/TaskSpec.scala
