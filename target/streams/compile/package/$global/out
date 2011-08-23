@@ -1,1 +1,23 @@
-[0m[[0mdebug[0m] [0mJar uptodate: /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/todo.txt-scala_2.8.1-0.1.jar[0m
+[0m[[0minfo[0m] [0mPackaging /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/todo.txt-scala_2.8.1-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/TodoList.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/TodoList.class[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/TodoList$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/TodoList$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/Task$$anonfun$getProjects$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/Task$$anonfun$getProjects$1.class[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/TodoApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/TodoApp.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/Task$$anonfun$getContexts$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/Task$$anonfun$getContexts$1.class[0m
+[0m[[0mdebug[0m] [0m	com/lbak[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/TodoApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/TodoApp$.class[0m
+[0m[[0mdebug[0m] [0m	com/lbak/todo/Task.class[0m
+[0m[[0mdebug[0m] [0m	  /home/sam/Dropbox/code/Scala/todo-txt/target/scala-2.8.1.final/classes/com/lbak/todo/Task.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
